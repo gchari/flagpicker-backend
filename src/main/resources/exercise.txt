@@ -1,0 +1,20 @@
+Java Code Challenge
+Flag Picker (Assignment must be turned in 24 hr window after handover to the candidate)
+
+Challenge: 
+Build a generic services using Spring Boot that allows the user to pick different world flags based on the provided JSON file (attached to this email).
+Instructions: 
+1. Build a generic rest based services that can pull list of items that fits for the given criterion -  Filter these options based on the user's input:-All data, if continent is provided then pull list of countries and flag. If countries is provided then send the flag. 
+2. Build Unit tests for your search service 
+3. Feel free to add Design pattern or more functionality as it fits this problem. 
+
+Bonus: 
+1. Performance and Audit logging enhancement to service. 
+2. A metrics service that can provide - number of times certain continent/country flag has been viewed.
+3. Create a schema for this problem for MySQL/NoSql data store
+
+Requirements: 
+- Use Sprint Boot with Rest End points
+- Only use the provided JSON file (as is)
+
+Note:  Please send us a link to your project via a file sharing system (dropbox, google drive, etc.), GitHub or through email and Run instruction. 

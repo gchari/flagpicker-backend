@@ -12,5 +12,7 @@ Run 'FlagPickerApplication.java' as Java Application.
 Endpoints:
 
 GET http://localhost:8080/getflag?country=Nigeria&continent=Africa
+
+
 PUT http://localhost:8080/putdata
 
